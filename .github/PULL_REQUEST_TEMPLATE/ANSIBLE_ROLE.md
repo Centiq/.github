@@ -1,6 +1,6 @@
 ## Definition of Done
 
-**Note:** If any of the following are not done at the time of PR review, the PR should only be accepted if it links to appropriate issues on the backlog for that repo that covers the incomplete criteria.
+**Note:** If any of the following are not done at the time of PR review, the PR should only be accepted if it links to appropriate issues on the backlog for that repo that covers the incomplete criteria, or a satisfactory justification is included for why the crietria is not appropriate in this case.
 
 - Repo name:
   - [ ] Prefixed with `ansible-role-`
